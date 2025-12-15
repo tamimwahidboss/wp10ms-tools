@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# OS-specific metadata files (macOS, Windows)
+.Spotlight-V100
+.Trashes
+
+# (Optional) Ignore editor / IDE settings
+.vscode/
+.idea/
