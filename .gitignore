@@ -11,3 +11,4 @@ Desktop.ini
 # (Optional) Ignore editor / IDE settings
 .vscode/
 .idea/
+.DS_Store
